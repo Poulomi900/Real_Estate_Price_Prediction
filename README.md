@@ -1,6 +1,6 @@
 # Real Estate MLOps Project
 
-🚀 Excited to Share My Latest Project on MLOps! 🌟
+Excited to Share My Latest Project on MLOps! 🌟
 
 After a lot of  hard work, I am thrilled to announce that I have successfully completed a comprehensive MLOps project, covering everything from data analysis to model integration on a fully functional website.
 
